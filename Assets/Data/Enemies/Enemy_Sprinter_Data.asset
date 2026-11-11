@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34df7ef382ef71f4e8f6d66324496252, type: 3}
+  m_Name: Enemy_Sprinter_Data
+  m_EditorClassIdentifier: Assembly-CSharp::AnutoTD.Data.EnemyDataSO
+  enemyType: 2
+  enemyName: Sprinter
+  sprite: {fileID: -2673082161942454905, guid: 826ff88457104c840b2fd72c45ae0ac5, type: 3}
+  maxHealth: 60
+  moveSpeed: 4.2
+  rewardCredits: 20
+  damageToBase: 1
+  isFlying: 0
+  physicalArmor: 0

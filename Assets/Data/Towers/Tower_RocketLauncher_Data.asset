@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 025d6dc09852e7446b454596d64c9401, type: 3}
+  m_Name: Tower_RocketLauncher_Data
+  m_EditorClassIdentifier: Assembly-CSharp::AnutoTD.Data.TowerDataSO
+  towerType: 10
+  towerName: Rocket Launcher
+  gunSprite: {fileID: 5190117787203456751, guid: 6f00f5f200408a943ba00f9b31469ca2, type: 3}
+  cost: 350
+  attackRange: 5.2
+  fireRate: 0.9
+  damage: 120
+  projectileSpeed: 11
+  projectilePrefab: {fileID: 7631690460073735230, guid: 2f5b11b496e38c744b900d956ca7cc39, type: 3}

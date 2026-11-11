@@ -16,7 +16,7 @@ MonoBehaviour:
   enemyName: 
   sprite: {fileID: 6246832655069406539, guid: 51c7ed346e30b2b47a7f9ecbb8bbf265, type: 3}
   maxHealth: 100
-  moveSpeed: 2
+  moveSpeed: 2.5
   rewardCredits: 15
   damageToBase: 1
   isFlying: 0

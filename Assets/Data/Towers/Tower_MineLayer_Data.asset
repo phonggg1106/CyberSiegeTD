@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 025d6dc09852e7446b454596d64c9401, type: 3}
+  m_Name: Tower_MineLayer_Data
+  m_EditorClassIdentifier: Assembly-CSharp::AnutoTD.Data.TowerDataSO
+  towerType: 11
+  towerName: Mine Layer
+  gunSprite: {fileID: 3874521608261358560, guid: 1d648ebef008bdd4f979aafa6fc0a413, type: 3}
+  cost: 420
+  attackRange: 4
+  fireRate: 0.5
+  damage: 180
+  projectileSpeed: 7
+  projectilePrefab: {fileID: 5796146950109573635, guid: 4cceb7912579a1c49bf09bd154e2ad8e, type: 3}
